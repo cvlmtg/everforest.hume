@@ -16,6 +16,16 @@ Two variants: `everforest_dark` and `everforest_light`.
 
 ## Install
 
+With PLUM ([HUME](https://github.com/cvlmtg/hume)'s plugin manager — `(declare-plugin "core:plum")` in `init.scm`):
+
+```
+:plum-install-theme cvlmtg/everforest.hume
+```
+
+`:plum-update-themes` later pulls the latest version.
+
+### Manual install
+
 ```sh
 git clone https://github.com/cvlmtg/everforest.hume
 cp everforest.hume/themes/*.toml ~/.config/hume/themes/
