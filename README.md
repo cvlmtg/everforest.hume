@@ -1,5 +1,7 @@
 # everforest.hume
 
+![everforest_dark preview](images/dark.png)
+
 [Everforest](https://github.com/sainnhe/everforest) for [HUME](https://github.com/cvlmtg/hume)
 — a green-based, low-contrast color scheme designed to feel warm and comfortable on the eyes,
 inspired by forest colors in fall.
